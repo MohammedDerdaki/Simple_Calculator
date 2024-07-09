@@ -7,8 +7,8 @@ Welcome to the Simple Calculator project! This project is a basic calculator app
 - Multiplication
 - Division
 
-##Contributing
+## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome any improvements or bug fixes.
 
-##License
+## License
 This project is licensed under the MIT License.
