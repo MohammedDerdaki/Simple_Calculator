@@ -1,8 +1,16 @@
+:root{
+    --widthBtn : 3rem;
+}
+*{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
 .btn{
-    width: 3rem;
-    height: 1.5rem;
-    margin: 1px;
+    width: var(--widthBtn);
 }
 #monitor{
-    width: 12.8rem;
+    width: var(--widthBtn)*2;
 }
