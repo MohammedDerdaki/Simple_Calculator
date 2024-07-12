@@ -1,16 +1,19 @@
-:root{
-    --widthBtn : 3rem;
-}
+
 *{
-    text-align: center;
     margin: 0;
     padding: 0;
-    border: 0;
 }
-
+#calculBody{
+    width: 13rem;
+}
 .btn{
-    width: var(--widthBtn);
+    width: 3rem;
+    margin: 1px 0;
 }
-#monitor{
-    width: var(--widthBtn)*2;
+.monitor{
+    border: 0;
+    width: 100%;
+}
+#reset{
+    width: 98%;
 }
